@@ -38,4 +38,4 @@ I'm building a series of end-to-end data analysis projects — each one takes a 
 
 ---
 
-*American Statistical Association member · American Association of Black Actuaries*
+*American Association of Black Actuaries member*
